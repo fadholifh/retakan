@@ -1,0 +1,11 @@
+D:\Fad\Lesson\Kuliah\SMT3\Pemrograman\Baru\Retakan\Retakan\bin\Debug\Retakan.exe.config
+D:\Fad\Lesson\Kuliah\SMT3\Pemrograman\Baru\Retakan\Retakan\bin\Debug\Retakan.exe
+D:\Fad\Lesson\Kuliah\SMT3\Pemrograman\Baru\Retakan\Retakan\bin\Debug\Retakan.pdb
+D:\Fad\Lesson\Kuliah\SMT3\Pemrograman\Baru\Retakan\Retakan\obj\Debug\Retakan.csprojResolveAssemblyReference.cache
+D:\Fad\Lesson\Kuliah\SMT3\Pemrograman\Baru\Retakan\Retakan\obj\Debug\Retakan.Utama.resources
+D:\Fad\Lesson\Kuliah\SMT3\Pemrograman\Baru\Retakan\Retakan\obj\Debug\Retakan.Properties.Resources.resources
+D:\Fad\Lesson\Kuliah\SMT3\Pemrograman\Baru\Retakan\Retakan\obj\Debug\Retakan.csproj.GenerateResource.Cache
+D:\Fad\Lesson\Kuliah\SMT3\Pemrograman\Baru\Retakan\Retakan\obj\Debug\Retakan.exe
+D:\Fad\Lesson\Kuliah\SMT3\Pemrograman\Baru\Retakan\Retakan\obj\Debug\Retakan.pdb
+D:\Fad\Lesson\Kuliah\SMT3\Pemrograman\Baru\Retakan\Retakan\bin\Debug\Newtonsoft.Json.dll
+D:\Fad\Lesson\Kuliah\SMT3\Pemrograman\Baru\Retakan\Retakan\bin\Debug\Newtonsoft.Json.xml
